@@ -13,7 +13,7 @@ After a decade of Unity and C# game development, I moved to the other side of th
 
 ## Reach me
 
-[LinkedIn](https://linkedin.com/in/souravgamedev)
+[LinkedIn](https://www.linkedin.com/in/chatterjee-sourav/)
 
 ---
 
